@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/src/pointers/gff/Cargo.toml" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3fe87393-134b-47d6-9fbc-efead0e2ceac" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cargo.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rust.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/asyn_await.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/channel_with_function.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/channel_with_multiple_producers.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/channels.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/channels_with_multiple_values.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/mod.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/mutex_arcs.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/ownership_inside_thread.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/threads.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/control_statements.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data_structures/arrays.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data_structures/hashmap.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data_structures/hashset.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data_structures/mod.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data_structures/slice.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data_structures/vector.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enums.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functions.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/implementation.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/fileio.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/mod.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ownerships.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pointers/mod.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pointers/raw.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pointers/references.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structure.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/switch.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/traits.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuples.rs" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Rust File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="k2z4b4ww" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2QQeW1FWKD0eaAPfXOSaLu8GpkA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Cargo.Run.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/shubham/Desktop/Rust",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "org.rust.cargo.project.model.PROJECT_DISCOVERY": "true",
+    "org.rust.disableDetachedFileInspection/Users/shubham/Desktop/Rust/src/functions.rs": "true",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Run" type="CargoCommandRunConfiguration" factoryName="Cargo Command">
+      <option name="command" value="run --package Rust --bin Rust" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <option name="emulateTerminal" value="false" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <envs />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3fe87393-134b-47d6-9fbc-efead0e2ceac" name="Changes" comment="" />
+      <created>1685290261232</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685290261232</updated>
+      <workItem from="1700653827832" duration="6565000" />
+      <workItem from="1700721147904" duration="808000" />
+      <workItem from="1700722040603" duration="15492000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
