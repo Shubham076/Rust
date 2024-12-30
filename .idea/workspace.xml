@@ -1,59 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
+    <option name="autoReloadType" value="ALL" />
   </component>
   <component name="CargoProjects">
     <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
-    <cargoProject FILE="$PROJECT_DIR$/src/pointers/gff/Cargo.toml" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3fe87393-134b-47d6-9fbc-efead0e2ceac" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cargo.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rust.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/concurrency/asyn_await.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/concurrency/channel_with_function.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/concurrency/channel_with_multiple_producers.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/concurrency/channels.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/concurrency/channels_with_multiple_values.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/concurrency/mod.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/concurrency/mutex_arcs.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/concurrency/ownership_inside_thread.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/concurrency/threads.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/control_statements.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data_structures/arrays.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data_structures/hashmap.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data_structures/hashset.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data_structures/mod.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data_structures/slice.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data_structures/vector.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enums.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/functions.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/implementation.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/io/fileio.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/io/mod.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loops.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ownerships.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pointers/mod.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pointers/raw.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pointers/references.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strings.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structure.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/switch.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/traits.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tuples.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/closures.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constants.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/println.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/smartPointer.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ownerships.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/ownerships.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/strings.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/strings.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tuples.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/tuples.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/variables.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/variables.rs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="RsBuildProfile:dev" />
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -63,6 +34,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$USER_HOME$/Library/Caches/JetBrains/RustRover2024.3/intellij-rust/stdlib-local-copy/1.78.0-801cc323dae56d4c84a5ab4816a197335e09f81c/library/std/src/collections/hash/map.rs" root0="SKIP_INSPECTION" />
+    <setting file="file://$USER_HOME$/Library/Caches/JetBrains/RustRover2024.3/intellij-rust/stdlib/1.78.0-ec8db9f948b7e245255c98d6971bb95acd666bf2/vendor/hashbrown/src/map.rs" root0="SKIP_INSPECTION" />
+    <setting file="file://$USER_HOME$/Library/Caches/JetBrains/RustRover2024.3/intellij-rust/stdlib/1.78.0-ec8db9f948b7e245255c98d6971bb95acd666bf2/vendor/hashbrown/src/raw/mod.rs" root0="SKIP_INSPECTION" />
   </component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="k2z4b4ww" />
@@ -84,6 +60,8 @@
     "Cargo.Run.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.rust.reset.selective.auto.import": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "/Users/shubham/Desktop/Rust",
     "node.js.detected.package.eslint": "true",
@@ -104,6 +82,7 @@
     <configuration name="Run" type="CargoCommandRunConfiguration" factoryName="Cargo Command">
       <option name="command" value="run --package Rust --bin Rust" />
       <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
       <option name="emulateTerminal" value="false" />
       <option name="channel" value="DEFAULT" />
       <option name="requiredFeatures" value="true" />
@@ -111,7 +90,6 @@
       <option name="withSudo" value="false" />
       <option name="buildTarget" value="REMOTE" />
       <option name="backtrace" value="SHORT" />
-      <envs />
       <option name="isRedirectInput" value="false" />
       <option name="redirectInputPath" value="" />
       <method v="2">
@@ -133,6 +111,15 @@
       <workItem from="1700653827832" duration="6565000" />
       <workItem from="1700721147904" duration="808000" />
       <workItem from="1700722040603" duration="15492000" />
+      <workItem from="1716103134761" duration="8909000" />
+      <workItem from="1716134791351" duration="524000" />
+      <workItem from="1720359239190" duration="8000" />
+      <workItem from="1723910084412" duration="8000" />
+      <workItem from="1723910104323" duration="14000" />
+      <workItem from="1723910308078" duration="5012000" />
+      <workItem from="1733638135267" duration="11000" />
+      <workItem from="1733638388583" duration="3462000" />
+      <workItem from="1735480828744" duration="780000" />
     </task>
     <servers />
   </component>

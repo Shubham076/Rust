@@ -17,7 +17,7 @@ A reference is like a pointer in that it’s an address we can follow to access 
 Just as variables are immutable by default, so are references. We’re not allowed to modify something we have a reference to.
 but we can have mutable references
 
-Mutable references have one big restriction: if you have a mutable reference to a value, you can have no other references to that value
+Mutable references to have one big restriction: if you have mutable reference to a value, you can have no other references to that value
 if you still have requirement for multiple mutable references we can create a new scope
 
 We also cannot have a mutable reference while we have an immutable one to the same value.
